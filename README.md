@@ -23,8 +23,8 @@ Este repositório contém os arquivos e códigos necessários para a aula de Est
 No terminal, clone este repositório:
 
 ```bash
-git clone https://github.com/EbaPed/EBA-aula08-RegLinearAnova2Fatores.git
-cd EBA-aula08-RegLinearAnova2Fatores
+git clone https://github.com/EbaPed/EBA-aula08-RegLinearSimplesMultipla.git
+cd EBA-aula08-RegLinearSimplesMultipla
 ```
 
 2. **Configurar a versão do Python com Pyenv**
